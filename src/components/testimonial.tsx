@@ -129,11 +129,11 @@ export default function Testimonials() {
     <section className="py-20 ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center">
-          <h2 className="text-base text-[#00AAFF] font-semibold tracking-wide uppercase">
-            TESTIMONIALS
+          <h2 className="text-xl text-[#00AAFF] font-semibold tracking-wide uppercase">
+            TESTIMONI
           </h2>
           <p className="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl">
-            What Our Clients Say About The Service
+            Apa Kata Klien Kami Tentang Layanan Ini
           </p>
         </div>
 
